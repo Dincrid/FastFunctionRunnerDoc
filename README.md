@@ -1,10 +1,10 @@
-## Fast Function Runner 
+# Fast Function Runner 
 [Alt]+[R]
 Your favorite Functions/Methods/Commands - in one place, with easy access to run or edit,
 hotkeys and parameter customization. 
 Ideal for fast prototyping, development, and workflow enhancement.
 
-#Quick Start
+# Quick Start
 1. Add:
 Search and add any Method or Command at the bottom of window 
 
